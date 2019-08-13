@@ -1,1 +1,2 @@
-# Cloud_Attendance_System
+main file index.html
+with requirements of mysql and apache server installed.
